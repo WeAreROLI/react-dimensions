@@ -4,8 +4,11 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## [1.3.1] - 2016-07-08
+### Fixed
+- Remove warning when `containerWidth` and `containerHeight` are missing
 
-## [1.3.0] - 2016-07-08
+## [1.3.0] - 2017-05-17
 ### Added
 - Added a CHANGELOG.md
 - Add option `className` for setting an optional class on the wrapper `<div>` ([#32](https://github.com/digidem/react-dimensions/pull/32))
